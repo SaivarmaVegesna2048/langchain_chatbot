@@ -1,0 +1,5 @@
+langchain_community
+langchain_text_splitters
+langchain.vectorstores
+chromadb
+sentence_transformers
